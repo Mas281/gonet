@@ -1,0 +1,4 @@
+.idea/* 
+
+DigitRecognition/mnist_train.csv
+DigitRecognition/mnist_test.csv
